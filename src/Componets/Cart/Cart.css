@@ -1,0 +1,21 @@
+.AddToCart{
+    width: 90%  ;
+    background-color: rgb(46, 38, 38);
+    height: 500px;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 30px;
+    border-radius: 30px;
+    
+}
+.Container{
+    width: 90%; 
+    height: 150px;  
+    background-color:rgb(54, 36, 36) ;
+    margin: auto;
+}
+.Item1{
+    margin-left: 20px;
+    color: aliceblue;
+
+}

@@ -1,0 +1,57 @@
+.Login{
+    width: 50%;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: black;
+    color: gold;
+}
+.Email{
+    margin: auto;
+    margin-top: 10px;
+   margin-left: 25%;
+   
+   
+}
+.password{
+    margin: auto;
+    margin-top: 20px;
+   margin-left: 25%;
+
+}
+.login1{
+   margin-top: 30px;
+   margin-left: 270px;
+   margin-bottom: 30px;
+   width: 80px;
+   height: 35px;
+  background-color: gold;
+  border-radius: 10px;
+}
+.Box{
+        margin: auto;
+        margin-top: 100px;
+       margin-left: 48px;
+       padding: 10px;
+       border-radius: 10px;
+       color: rgb(255, 0, 0);
+    }
+.Box1{
+        margin: auto;
+        margin-top: 20px;
+       margin-left: 20px;
+       padding: 10px;
+       border-radius: 10px;
+       color: rgb(255, 0, 0);
+    }
+    .Register1{
+       
+       margin-top: 50px;
+       margin-left: 302px;
+      color: gold;
+        width: 80px;
+        height: 35px;
+        border-radius: 10px;    
+    }
+    
+ 
